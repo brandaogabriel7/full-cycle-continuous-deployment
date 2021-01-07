@@ -4,4 +4,3 @@ steps:
   name: 'gcr.io/cloud-builders/go'
   args: ['test', '.']
   env: ['GOPATH=.']
-  dir: './go-challenge'
